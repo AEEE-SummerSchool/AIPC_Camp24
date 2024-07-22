@@ -7,26 +7,26 @@
 ### Use Windows RDP to sign in
 1. Search RDP and open it. Type in the IP and username.
 
-   ![load_board](images\RDP.png)
+   ![load_board](./images/RDP.png)
 
 2. Type in the original password.
 
-   ![load_board](images\password.png)
+   ![load_board](./images/password.png)
 
 3. Click Yes when you see this pop out
 
-   ![load_board](images\cliclk_yes.png)
+   ![load_board](./images/cliclk_yes.png)
 
 4. Then you should be log in
 
 ### Open Riallto on your remote Desktop
 
-![load_board](images\Riallto.png)
+![load_board](./images/Riallto.png)
    
 ### Log out 
 Log out by click the Windows icon and the tree dots and choose sign out.
 
-![load_board](images\sign_out.png)
+![load_board](./images/sign_out.png)
 
 **Remember: NEVER SHUT DOWN THE REMOTE PC**
 
