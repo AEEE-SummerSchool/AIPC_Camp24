@@ -28,7 +28,7 @@ Please DO NOT distribute this document for any commercial purposes.
 
 ## Remote Lab Setup
 
-[Remote Lab: Windows RDP](./Remote_Lab.md) Usage (TBD)
+[Remote Lab: Windows RDP](./Remote_Lab.md) Usage
 
 ## Homework
 
@@ -37,7 +37,7 @@ Please DO NOT distribute this document for any commercial purposes.
 **Lab2 Improvement Yolov8 Notebook:** Review and enhance the existing Yolov8 notebook by improving the model's performance and efficiency. This includes optimizing the data preprocessing steps, experimenting with different hyperparameters, and implementing advanced techniques to boost the model's accuracy and speed. Test the improved model on a validation set and compare the results with the original notebook. Provide a detailed report on the changes made and their impact on the model's performance.
 
 
-**Lab3 Improvement of LLM application:** Work on refining the application of a Large Language Model (LLM) on an AI PC and Radeon GPU. Focus on enhancing the application's responsiveness, accuracy, and overall user experience. This may involve fine-tuning the LLM, optimizing the inference process, and integrating additional functionalities. Test the improved application thoroughly and document the enhancements and their benefits. Provide a summary of the performance improvements and any challenges encountered during the process.
+**Lab3 Improvement of LLM application:** Work on refining the application of a Large Language Model (LLM) on an AI PC and Radeon GPU. Focus on enhancing the application's responsiveness, accuracy, and overall user experience. This may involve optimizing the inference process, and integrating additional functionalities. Test the improved application thoroughly and document the enhancements and their benefits. Provide a summary of the performance improvements and any challenges encountered during the process.
 
 
 ## Submission
