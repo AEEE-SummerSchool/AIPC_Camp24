@@ -13,17 +13,17 @@ Please DO NOT distribute this document for any commercial purposes.
 |          | 15:00-16:00  | Run Machine Learning Inference on the NPU with PyTorch and ONNX|
 |          | 16:00-17:00  | Homework- Run FashionMinst lab                                 |
 |          |              |                                                                | 
-| 24-Jul   | 9:30-10:30   | Homework Review                                                |
-|          | 10:30-11:30  | PyTorch and ONNX Flow for Training                             |
-|          | 14:00-15:00  | CCF-DAC challenge Winner Sharing, IC Design DRC acceleration on AI PC |
-|          | 15:00-16:00  | Demo and Run the Yolov8 on AI PC                               |
+| 24-Jul   | 9:30-10:30   | Homework Review & PyTorch and ONNX Flow for Training           |
+|          | 10:30-11:30  | Demo and Run the Yolov8 and LLM on AI PC and Radeon GPU        |
+|          | 14:00-15:00  | Lab Time: Try the NPU Kernel Programming with Riallto Labs     |
+|          | 15:00-16:00  |                                                                |
 |          | 16:00-17:00  | Homework - Improvement Yolov8 Notebook                         |
 |          |              |                                                                | 
-| 25-Jul   | 9:30-10:30   | Explore the Ryzen AI NPU architecture with Riallto             |
-|          | 10:30-11:30  | Try the NPU kernel programming with Riallto labs               |
-|          | 14:00-15:00  | LLM on AI PC and Radeon GPU                                    |
-|          | 15:00-16:00  | Lab and Call for Proposal                                      |
-|          | 16:00-17:00  | Homework- Improvement of LLM application                       |
+| 25-Jul   | 9:30-10:30   | CCF-DAC challenge Winner Sharing, IC Design DRC acceleration on AI PC            |
+|          | 10:30-11:30  | Explore the Ryzen AI NPU architecture with Riallto                |
+|          | 14:00-15:00  | Lab Time: Try the NPU kernel programming with Riallto labs                                  |
+|          | 15:00-16:00  |                                       |
+|          | 16:00-17:00  |                      |
                                                                                                                                         |
 
 ## Remote Lab Setup
