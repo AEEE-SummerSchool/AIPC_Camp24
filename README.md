@@ -32,10 +32,15 @@ Please DO NOT distribute this document for any commercial purposes.
 
 ## Homework
 
-**Lab1 Run FashionMinst lab:** Complete the FashionMNIST lab by training a neural network on the FashionMNIST dataset. The lab involves setting up the environment, loading the dataset, building a simple MLP (Multi-Layer Perceptron) model, and training it on the FashionMNIST dataset. Evaluate the model's performance and make necessary adjustments to improve accuracy. Document your process and results.
-**Note: You can find the original MLP notebook in Remote Lab Riallto 5-0**
+### Lab1 Run FashionMinst lab: 
+1. Find the original MLP notebook in Remote Lab Riallto 5-0
+2. First run the original 5-0 MLP notebook step by step
+### Homework: Try to run MLP on  FashionMNIST dataset. 
+Complete the FashionMNIST homework by training a neural network on the FashionMNIST dataset. The lab involves setting up the environment, loading the dataset, building a simple MLP (Multi-Layer Perceptron) model, and training it on the FashionMNIST dataset. Evaluate the model's performance and make necessary adjustments to improve accuracy. Document your process and results.
+
 
 **Lab2 Improvement Yolov8 Notebook:** Review and enhance the existing Yolov8 notebook by improving the model's performance and efficiency. This includes optimizing the data preprocessing steps, experimenting with different hyperparameters, and implementing advanced techniques to boost the model's accuracy and speed. Test the improved model on a validation set and compare the results with the original notebook. Provide a detailed report on the changes made and their impact on the model's performance.
+
 
 
 **Lab3 Improvement of LLM application:** Work on refining the application of a Large Language Model (LLM) on an AI PC and Radeon GPU. Focus on enhancing the application's responsiveness, accuracy, and overall user experience. This may involve optimizing the inference process, and integrating additional functionalities. Test the improved application thoroughly and document the enhancements and their benefits. Provide a summary of the performance improvements and any challenges encountered during the process.
