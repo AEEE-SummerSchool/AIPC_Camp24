@@ -3,6 +3,8 @@
 This is a repository to deliver the 2024 AIPC Camp Training Material on July 23-25, 2024.
 Please DO NOT distribute this document for any commercial purposes.
 
+## [Ryzen AI Processor Specifications](https://www.amd.com/en/products/processors/consumer/ryzen-ai.html#tabs-8c217919cb-item-b0799dc4e6-tab) 
+
 ## Agenda
 
 | Date     | Time         | Activity                                                       |
@@ -15,16 +17,13 @@ Please DO NOT distribute this document for any commercial purposes.
 |          |              |                                                                | 
 | 24-Jul   | 9:30-10:30   | Homework Review & PyTorch and ONNX Flow for Training           |
 |          | 10:30-11:30  | Demo and Run the Yolov8 and LLM on AI PC and Radeon GPU        |
-|          | 14:00-15:00  | Lab Time: Try the NPU Kernel Programming with Riallto Labs     |
-|          | 15:00-16:00  |                                                                |
+|          | 14:00-16:00  | Lab Time: Try the NPU Kernel Programming with Riallto Labs     |
 |          | 16:00-17:00  | Homework - Improvement Yolov8 Notebook                         |
 |          |              |                                                                | 
 | 25-Jul   | 9:30-10:30   | CCF-DAC challenge Winner Sharing, IC Design DRC acceleration on AI PC            |
 |          | 10:30-11:30  | Explore the Ryzen AI NPU architecture with Riallto                |
-|          | 14:00-15:00  | Lab Time: Try the NPU kernel programming with Riallto labs                                  |
-|          | 15:00-16:00  |                                       |
-|          | 16:00-17:00  |                      |
-                                                                                                                                        |
+|          | 14:00-16:00  | Lab Time: Try the NPU kernel programming with Riallto labs                                  |
+
 
 ## Remote Lab Setup
 
